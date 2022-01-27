@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <h3 align="center">Ethereum ERCs demo using React</h3>
+  <h3 align="center">ERC20 demo using React</h3>
   
   <a href="https://github.com/jaichaudhary/erc20_project">
     <img src="images/ethlogo.png" alt="Logo">
@@ -12,7 +12,7 @@
     Client application interacting with smart contracts that follow ERCs standards.
     <br />
     <br />
-    Project Link : 
+    Project Link : https://erc20-project.vercel.app/#
     <br />
   </p>
 </div>
@@ -23,7 +23,6 @@
     <a href="#overview">Overview</a>
   </li>
   <li><a href="#license">Supported ERCs</a></li>
-  <li><a href="#license">License</a></li>
 </ol>
 
 <!-- OVERVIEW -->
@@ -40,7 +39,7 @@
 
 ### Example: ERC-20 Token creation
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <!-- GETTING STARTED -->
 
@@ -54,4 +53,5 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [product-screenshot]: images/ERC20.gif -->
+
+[product-screenshot]: images/Demo_1
