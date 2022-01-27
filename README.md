@@ -17,14 +17,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<ol>
-  <li>
-    <a href="#overview">Overview</a>
-  </li>
-  <li><a href="#license">Supported ERCs</a></li>
-</ol>
-
 <!-- OVERVIEW -->
 
 ## Overview
@@ -37,13 +29,21 @@
 - [React.js](https://reactjs.org/)
 - [Material UI](https://mui.com/)
 
-### Example: ERC-20 Token creation
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 <!-- GETTING STARTED -->
-
 ## Getting Started
+
+In this project you create your own token and you can check balance or transfer it into your different accounts. You can also import existing token and transfer or check balance if you are owner of that token.
+
+## Project Demo
+
+https://user-images.githubusercontent.com/59798109/151336350-67df85ad-910e-4b5f-9ef4-2aaabc89db57.mov
+
+
+https://user-images.githubusercontent.com/59798109/151336595-1da501be-bbc6-4e36-ae3d-a8417a72ae88.mov
+
+
+https://user-images.githubusercontent.com/59798109/151336805-cc43569b-c31a-450b-a159-c16b00d86d92.mov
+
 
 <!-- Supported -->
 
@@ -51,7 +51,3 @@
 
 - [x] ERC-20
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[product-screenshot]: images/Demo_1
